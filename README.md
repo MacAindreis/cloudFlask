@@ -1,6 +1,5 @@
 # Three-Tier Python Web Application on Google Compute Engine and CloudSQL
 
-Welcome to this hands-on tutorial on building a three-tier web application using Python and deploying it onto Google Compute Engine and CloudSQL (MySQL).
 
 ## Overview
 
@@ -8,11 +7,11 @@ This repository contains resources and code for creating a robust three-tier web
 
 ## Key Features
 
-- **Python Development:** Learn to develop a web application using Python.
-- **Local Testing:** Understand how to test the application in a local environment.
-- **Google Compute Engine Deployment:** Deploy the application onto Google Compute Engine effortlessly.
-- **Perfect for Beginners:** Ideal for newcomers to Python programming and the Google Cloud platform.
-
+- **Python Development:** 
+- **Local Testing:** 
+- **Google Compute Engine Deployment:** 
+- **Perfect for Beginners:**
+- 
 ## Getting Started
 
 Follow these steps to get started:
